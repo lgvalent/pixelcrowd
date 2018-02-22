@@ -1,4 +1,4 @@
-# pixelcrowd
+# pixelscrowd
 An attempt to turn a crowd into a large screen :)
 
 ## Components:
